@@ -1,4 +1,4 @@
-<img src = "./chatapp.PNG>
+<img src = "/chatapp.PNG>
 
 socket.io 튜토리얼 채팅 앱
 
